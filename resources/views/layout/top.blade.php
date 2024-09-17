@@ -143,36 +143,7 @@
                     </ul>
 
                     <div class="others-options">
-                        <div class="dropdown language-switcher d-inline-block">
-                            <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <img src="{{ asset('assets/img/flag/france-flag.jpg')}}" class="shadow" alt="image">
-                                <span>Eng <i class='bx bx-chevron-down'></i></span>
-                            </button>
-
-                            <div class="dropdown-menu">
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="{{ asset('assets/img/flag/germany-flag.jpg')}}" class="shadow-sm" alt="flag">
-                                    <span>Ger</span>
-                                </a>
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="{{ asset('assets/img/flag/italy-flag.jpg')}}" class="shadow-sm" alt="flag">
-                                    <span>Fre</span>
-                                </a>
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="{{ asset('assets/img/flag/spain-flag.jpg')}}" class="shadow-sm" alt="flag">
-                                    <span>Spa</span>
-                                </a>
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="{{ asset('assets/img/flag/russia-flag.jpg')}}" class="shadow-sm" alt="flag">
-                                    <span>Rus</span>
-                                </a>
-                                <a href="javascript:;" class="dropdown-item d-flex align-items-center">
-                                    <img src="{{ asset('assets/img/flag/us-flag.jpg')}}" class="shadow-sm" alt="flag">
-                                    <span>Ita</span>
-                                </a>
-                            </div>
-                        </div>
-
+                        
                         <div class="option-item"><i class="search-btn bx bx-search"></i>
                             <i class="close-btn bx bx-x"></i>
                             <div class="search-overlay search-popup">
